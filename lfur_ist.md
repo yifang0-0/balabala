@@ -22,14 +22,14 @@
 ![](./IMG_5188.JPG)
 
 #### fridge
-- price: 10 euro
+- price: 20 euro
 - the magnets are not included :)
 ![](./IMG_5189.JPG)
 
 
-#### adjustable topping lights (*2)
-- price: 4 euro for each, 7 euro together
-- the bulbs are free, but only 3 are left. You need 2 for one light.
+#### adjustable topping lights
+- price: 4 euro
+- the bulbs are free, ~~but only 3 are left.~~ only one left. You need 2 for one light.
 ![](./IMG_5190.JPG)
 
 #### curtains with rod (ikea)
