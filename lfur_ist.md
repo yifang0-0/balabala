@@ -15,13 +15,7 @@
 #### teatable (ikea)
 - price: 3 euro
 ![](./IMG_5183.JPG)
-#### sofa (ikea)
-- price: 10 euro with three grey pillows and two yellow pillows. The carpet is free with the sofa.
-- It was scratched by the cat (especially the left corner)
-![](./IMG_5203.JPG)
-![](./IMG_5185.JPG)
-![](./IMG_5186.JPG)
-![](./IMG_5187.JPG)
+
 #### wash machine
 - price: 8 euro
 - It is quite an old one but still works fine. The problem is you need to get a new sealing circle. But the water does not go out. If you don't mind you can just use it with no problem.
