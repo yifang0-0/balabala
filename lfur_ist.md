@@ -2,7 +2,7 @@
 
 - address: on Campus, sky building
 - Whatsapp: __+31630691293__
-- except for the bed, fridge and curtain, the other things are __ready to go__. Bed, fridge and curtains will be ready by the end of February.
+- except for the bed, fridge and curtain, the other things are ready to go __next week__. Bed, fridge and curtains will be ready by the end of February.
 
 
 #### cupboard
