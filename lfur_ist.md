@@ -5,10 +5,10 @@
 - except for the bed, fridge and curtain, the other things are ready to go __next week__. Bed, fridge and curtains will be ready by the end of February.
 
 
-#### cupboard
+#### cabinet
 - price: 10 euro
-- with one shelf in side
-![](./IMG_5200.png)
+- two-layer in total
+![](./IMG_5200.PNG)
 ![](./IMG_5182.JPG)
 
 
@@ -17,8 +17,8 @@
 ![](./IMG_5183.JPG)
 
 #### wash machine
-- price: 8 euro
-- It is quite an old one but still works fine. The problem is you need to get a new sealing circle. But the water does not go out. If you don't mind you can just use it with no problem.
+- price: 10 euro
+- It is quite an old one but still works fine. The problem is you need to get a new sealing ring. But the water does not go out. If you don't mind you can just use it with no problem.
 ![](./IMG_5188.JPG)
 
 #### fridge
