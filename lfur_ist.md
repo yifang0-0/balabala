@@ -21,7 +21,7 @@
 - It is quite an old one but still works fine. The problem is you need to get a new sealing ring. But the water does not go out. If you don't mind you can just use it with no problem.
 ![](./IMG_5188.JPG)
 
-#### fridge
+#### fridge(ordered)
 - price: 20 euro
 - the magnets are not included :)
 ![](./IMG_5189.JPG)
@@ -58,7 +58,7 @@
 ![](./IMG_5201.JPG)
 
 
-#### oven
+#### oven (ordered)
 - price: 5 euro
 - It is dirty inside so it is cheap. You might need to clean it by yourself :) 
 ![](./IMG_5202.JPG)
